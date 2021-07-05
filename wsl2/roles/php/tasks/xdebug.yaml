@@ -1,0 +1,5 @@
+- name: PHP-Xdebug
+  apt:
+    name:
+      - php-xdebug
+
