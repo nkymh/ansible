@@ -1,0 +1,5 @@
+- name: PHPUnit install
+  composer:
+    command: require
+    global_command: no
+    arguments: phpunit/phpunit
